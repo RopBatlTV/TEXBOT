@@ -1,1 +1,1 @@
-worker: node texbot.js
+worker: node bot.js
